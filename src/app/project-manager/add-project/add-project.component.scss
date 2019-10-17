@@ -1,0 +1,43 @@
+.example-container {
+    display: flex;
+    flex-direction: column;
+    margin: 10px 160px;
+    padding: 0 15px 45px 15px;
+    border: solid 1px #b3b1b1;
+    border-radius: 3px;
+  }
+
+  .date-picker-form-control-container {
+      display: flex;
+
+      .date-picker-checkbox {
+        padding: 20px 20px 20px 0;
+      }
+
+      .date-picker-container {
+          width: 40%;
+      }
+  }
+
+  .example-h2 {
+    margin: 10px;
+  }
+  
+  .example-section {
+    display: flex;
+    align-content: center;
+    align-items: center;
+    height: 60px;
+  }
+  
+  .example-margin {
+    margin: 10px;
+  }
+  
+  .mat-slider-horizontal {
+    width: 300px;
+  }
+  
+  .mat-slider-vertical {
+    height: 300px;
+  }
