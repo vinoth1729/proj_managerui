@@ -1,0 +1,20 @@
+Docker Host: 172.18.2.50 this can be accessed only from VM
+
+How to Setup Docker Client on VM:
+https://github.com/vskreddy652/Genc_BatchB/blob/master/ConceptsAndExamples/DockerBasics/Docker%20Remote%20Host%20Access%20%20Steps.docx
+
+How to Dockerize Spring Boot App:
+https://github.com/vskreddy652/Genc_BatchB/blob/master/ConceptsAndExamples/DockerBasics/3_DOckerize_spring_boot_app.docx
+
+How to Dockerize Spring Boot with MySQL:
+https://github.com/vskreddy652/Genc_BatchB/blob/master/ConceptsAndExamples/DockerBasics/3_DOckerize_spring_boot_app_Mysql.docx
+
+Dockerfile(Refer below)
+Sample Docker file: https://github.com/vskreddy652/Genc_BatchB/blob/master/Dockerfile
+
+
+The ports 61100 to 61200 are already opened, you may use any port in this range.
+
+#2. Jenkins need to be installed on your VM itself
+
+#3. JMeter, jmx file to Performance Test and Screenshot of generated report(Refer https://www.youtube.com/watch?v=9433A7jHe2U)
